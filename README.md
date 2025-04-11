@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Skill-Pick](https://skill-pick-3.onrender.com)
 
-- 💬 Ask me about **react , javascript , express , tailwindCss**
+- 💬 Ask me about **react , javascript , express , tailwindCss , C++ , Nodejs, Html**
 
 - 📫 How to reach me **deepanshujoshi199@gmail.com**
 
